@@ -1,10 +1,7 @@
-# nodejs-mongodb-auth-api
-A secure authentication API built with Node.js and MongoDB for user authentication and authorization. Implements user registration, login, and protected routes using JSON Web Tokens (JWT) for authentication and MongoDB as the database. Includes password hashing using bcrypt for enhanced security.
-
 ```markdown
-# Project Name
+# nodejs-mongodb-auth-api
 
-Short project description
+A secure authentication API built with Node.js and MongoDB for user authentication and authorization. Implements user registration, login, and protected routes using JSON Web Tokens (JWT) for authentication and MongoDB as the database. Includes password hashing using bcrypt for enhanced security.
 
 ## Getting Started
 
