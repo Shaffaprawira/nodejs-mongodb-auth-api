@@ -11,7 +11,7 @@ Short project description
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/shaffaprawira/nodejs-mongodb-auth-api.git
    ```
 
 2. Install the dependencies:
@@ -23,7 +23,7 @@ Short project description
 3. Create a `.env` file in the project's root directory with the following environment variables:
 
    ```
-   API_PORT=3000
+   API_PORT=your-port
    MONGO_URI=mongodb+srv://username:password@your-cluster.mongodb.net/your-database?retryWrites=true&w=majority
    TOKEN_KEY=your-secret-key
    ```
@@ -37,16 +37,5 @@ Short project description
 4. Start the application:
 
    ```bash
-   npm start
+   npm run dev
    ```
-
-## Contributing
-
-Please follow these guidelines if you want to contribute to the project. [...]
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-```
-
-Remember to replace `your-username/your-repo` with the actual GitHub repository URL, and provide any additional instructions or guidelines for contributors if applicable.
